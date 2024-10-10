@@ -1,0 +1,3 @@
+[submodule "LowlevelController"]
+	path = LowlevelController
+	url = https://github.com/ETH-PBL/SwiftEagle-crazyflie-firmware.git
